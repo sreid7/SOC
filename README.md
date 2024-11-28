@@ -22,3 +22,31 @@
 
 7. Action - objective of the attack. The objective of each attack can vary. Some adversaries may go after exfiltrating confidential data, while others may want to obtain the highest level of access possible within a network to deploy ransomware.
 
+--------------------
+
+**NIST Incident Handling (Defensive Security Model)**
+
+1. Preparation: Creating policies, procedures, and tools for defense.
+
+2. Detection and Analysis: Identifying and analyzing the signs of an incident (this is when the Exploit and Deliver stages of the Kill Chain are detected).
+
+3. Containment, Eradication, and Recovery:
+
+  Containment: Preventing the attacker from further compromising systems (corresponds with Install and C&C).
+  Eradication: Removing the threat from the system.
+  Recovery: Restoring normal operations, ensuring no further threats remain.
+
+4. Post-Incident Activities: Analyzing the attack to improve defenses (post-exploitation phase).
+
+
+
+
+
+
+
+
+
+
+
+
+
