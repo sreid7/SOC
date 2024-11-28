@@ -3,7 +3,7 @@
 **Incident Handling Process**
 1. Recon - Gather information  
 
-2. Weaponize -  the malware to be used for initial access is developed and embedded into some type of exploit or deliverable payload. Extremely light ans undetectable.
+2. Weaponize -  the malware to be used for initial access is developed and embedded into some type of exploit or deliverable payload. Extremely light and undetectable.
 
 3. Deliver - the exploit or payload is delivered to the victim(s). Traditional approaches are phishing emails that either contain a malicious attachment or a link to a web page.
 
