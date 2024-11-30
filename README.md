@@ -117,7 +117,8 @@ When handling a security incident, we should also try to answer the following qu
 5. How many systems have been impacted?
 6. Is the exploit being used in the wild?
 7. Does the exploit have any worm-like capabilities?
-8. The last two can possibly indicate the level of sophistication of an adversary.
+
+(The last two can possibly indicate the level of sophistication of an adversary).
 
 
 
