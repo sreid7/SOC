@@ -120,6 +120,29 @@ When handling a security incident, we should also try to answer the following qu
 
 (The last two can possibly indicate the level of sophistication of an adversary).
 
+------------------------
+
+**The Investigation**
+
+The investigation starts based on the initially gathered (and limited) information that contain what we know about the incident so far. With this initial data, we will begin a 3-step cyclic process that will iterate over 
+and over again as the investigation evolves. 
+
+This process includes:
+
+Creation and usage of indicators of compromise (IOC)
+Identification of new leads and impacted systems
+Data collection and analysis from the new leads and impacted systems
+
+
+
+
+
+
+
+
+
+
+
 
 
 
