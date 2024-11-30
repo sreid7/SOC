@@ -129,9 +129,9 @@ and over again as the investigation evolves.
 
 This process includes:
 
-Creation and usage of indicators of compromise (IOC)
-Identification of new leads and impacted systems
-Data collection and analysis from the new leads and impacted systems
+1. Creation and usage of indicators of compromise (IOC)
+2. Identification of new leads and impacted systems
+3. Data collection and analysis from the new leads and impacted systems
 
 
 
