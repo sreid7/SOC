@@ -88,7 +88,21 @@ Secure facility for storage and investigation
 Incident handling system independent of your organization's infrastructure
 
 
--------------------------
+-----------------------
+
+
+**Initial Investigation** 
+
+Collect as much information as possible at this stage about the following:
+
+1. Date/Time when the incident was reported. Additionally, who detected the incident and/or who reported it?
+2. How was the incident detected?
+3. What was the incident? Phishing? System unavailability? etc.
+4. Assemble a list of impacted systems (if relevant)
+5. Document who has accessed the impacted systems and what actions have been taken. Make a note of whether this is an ongoing incident or the suspicious activity has been stopped
+6. Physical location, operating systems, IP addresses and hostnames, system owner, system's purpose, current state of the system
+7. (If malware is involved) List of IP addresses, time and date of detection, type of malware, systems impacted, export of malicious files with forensic information on them (such as hashes, copies of the files, etc.)
+With that information at hand, we can make decisions based on the knowledge we have gathered.
 
 
 
