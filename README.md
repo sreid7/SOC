@@ -104,6 +104,21 @@ Collect as much information as possible at this stage about the following:
 7. (If malware is involved) List of IP addresses, time and date of detection, type of malware, systems impacted, export of malicious files with forensic information on them (such as hashes, copies of the files, etc.)
 With that information at hand, we can make decisions based on the knowledge we have gathered.
 
+-----------------------
+
+**Incident Severity & Extent Questions**
+
+When handling a security incident, we should also try to answer the following questions to get an idea of the incident's severity and extent:
+
+1. What is the exploitation impact?
+2. What are the exploitation requirements?
+3. Can any business-critical systems be affected by the incident?
+4. Are there any suggested remediation steps?
+5. How many systems have been impacted?
+6. Is the exploit being used in the wild?
+7. Does the exploit have any worm-like capabilities?
+8. The last two can possibly indicate the level of sophistication of an adversary.
+
 
 
 
