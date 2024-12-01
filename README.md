@@ -133,7 +133,18 @@ This process includes:
 2. Identification of new leads and impacted systems
 3. Data collection and analysis from the new leads and impacted systems
 
+------------------------
 
+**Reporting**
+
+The final report is a crucial part of the entire process. A complete report will contain answers to questions such as:
+
+1. What happened and when?
+2. Performance of the team dealing with the incident in regard to plans, playbooks, policies, and procedures
+3. Did the business provide the necessary information and respond promptly to aid in handling the incident in an efficient manner? What can be improved?
+4. What actions have been implemented to contain and eradicate the incident?
+5. What preventive measures should be put in place to prevent similar incidents in the future?
+6. What tools and resources are needed to detect and analyze similar incidents in the future?
 
 
 
