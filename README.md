@@ -23,6 +23,7 @@
 
 7. Action - objective of the attack. The objective of each attack can vary. Some adversaries may go after exfiltrating confidential data, while others may want to obtain the highest level of access possible within a network to deploy ransomware.
 
+
 --------------------
 
 **NIST Incident Handling (Defensive Security Model)**
