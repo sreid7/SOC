@@ -148,6 +148,19 @@ The final report is a crucial part of the entire process. A complete report will
 6. What tools and resources are needed to detect and analyze similar incidents in the future?
 
 
+-------------------------
+
+**Elastic Stack**
+
+Elastic Stack Literature
+https://www.elastic.co/guide/en/ecs/current/ecs-reference.html
+
+Windows Port Error Codes for Elastic Search
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4625
+
+
+The query identifies the number of failed login attempts (Event ID 4625) for accounts that start with "admin.
+event.code:4625 AND user.name: admin*
 
 
 
