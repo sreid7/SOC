@@ -158,6 +158,10 @@ https://www.elastic.co/guide/en/ecs/current/ecs-reference.html
 Windows Port Error Codes for Elastic Search
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4625
 
+**WINDOWS RESEARCH WITHIN THE ELASTIC SIEM**
+
+event.code:4625
+This Windows event code is associated with failed login attempts in a Windows operating system.
 
 The query identifies the number of failed login attempts (Event ID 4625) for accounts that start with "admin.
 event.code:4625 AND user.name: admin*
